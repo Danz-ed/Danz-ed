@@ -1,10 +1,12 @@
 # Hi 👋, I'm Daniel Zelalem
 
-## About Me
-I'm a Full Stack Developer passionate about building **scalable web apps** and solving real-world problems.  
-I enjoy working with **React**, **Next.js**, and **Node.js**, and I'm always learning new technologies to improve my skills.  
+---
 
-- 🔭 I’m currently working on building **personal projects** and contributing to **open-source**.  
+## About Me
+I'm a **Full Stack Developer** passionate about building **scalable web apps** and solving real-world problems.  
+I enjoy working with **React**, **Next.js**, and **Node.js**, and I'm always learning new technologies.  
+
+- 🔭 I’m currently working on **personal projects** and contributing to **open-source**.  
 - 🌱 I’m continuously learning **TypeScript, Prisma ORM, and advanced Next.js features**.  
 - 💬 Ask me about **web development, JavaScript, and full-stack development**.  
 
@@ -12,38 +14,58 @@ I enjoy working with **React**, **Next.js**, and **Node.js**, and I'm always lea
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, Next.js, Tailwind CSS, HTML, CSS, JavaScript  
-**Backend:** Node.js, Express, REST API  
-**Database:** MySQL, MongoDB  
-**Other:** Git, GitHub, JWT, Prisma, Vercel, Netlify  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🔭 Projects
 
-- [Daily Expense Tracker](https://github.com/Danz-ed/expense-tracker)  
-  Track and manage your daily expenses with add, edit, delete, and categorization features using **React** and **localStorage**.
+### [Daily Passivity Quotes & Suggestions](https://positivity.lovable.app/)
+![Daily Passivity](https://via.placeholder.com/400x200?text=Project+Screenshot)  
+A web app providing daily positivity quotes and suggestions to improve mood and mental health. Built with **React** and **Next.js**.
 
-- [Portfolio Website](https://github.com/Danz-ed/portfolio)  
-  My personal website built with **Next.js** and **Tailwind CSS** to showcase my projects and resume.
+### [Portfolio Website](https://danielzelalem.vercel.app/)
+![Portfolio](https://via.placeholder.com/400x200?text=Project+Screenshot)  
+My personal portfolio website built with **Next.js** and **Tailwind CSS** to showcase my projects and resume.
 
-- [To-Do App](https://github.com/Danz-ed/todo-app)  
-  Manage tasks efficiently with a full-featured **React** app including CRUD operations.
+### [Daily Expense Tracker](https://github.com/Danz-ed/expense-tracker)
+![Expense Tracker](https://via.placeholder.com/400x200?text=Project+Screenshot)  
+Manage daily expenses with add, edit, delete, and categorization features using **React** and **localStorage**.
 
-- [Vehicle Management System](https://github.com/Danz-ed/vehicle-management)  
-  A simple **Next.js** project demonstrating frontend-backend integration with JSON-based storage.
+### [To-Do App](https://github.com/Danz-ed/todo-app)
+![To-Do App](https://via.placeholder.com/400x200?text=Project+Screenshot)  
+Manage tasks efficiently with a full-featured **React** app including CRUD operations.
+
+### [Vehicle Management System](https://github.com/Danz-ed/vehicle-management)
+![Vehicle Management](https://via.placeholder.com/400x200?text=Project+Screenshot)  
+A **Next.js** project demonstrating frontend-backend integration with JSON-based storage.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danz-ed&show_icons=true&theme=radical)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danz-ed&show_icons=true&theme=radical&count_private=true&hide=issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danz-ed&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/daniel-zelalem-3741a7252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/Danz-ed) | [Email](mailto:dzelalem86@gmail.com)
+[Portfolio](https://danielzelalem.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/daniel-zelalem-3741a7252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/Danz-ed) | [Email](mailto:dzelalem86@gmail.com)
+
+---
+
+## 🏆 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/Danz-ed/count.svg)
 
 ---
 
