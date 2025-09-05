@@ -12,6 +12,14 @@ I enjoy working with **React**, **Next.js**, and **Node.js**, and I'm always lea
 
 ---
 
+## ⚡ Currently Learning
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+---
+
 ## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -52,8 +60,15 @@ A **Next.js** project demonstrating frontend-backend integration with JSON-based
 ## 📊 GitHub Stats
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danz-ed&show_icons=true&theme=radical&count_private=true&hide=issues)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danz-ed&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Danz-ed&theme=radical)
+
+---
+
+## 🎯 Hobbies & Interests
+![Music](https://img.shields.io/badge/Music-FF69B4?style=for-the-badge&logo=spotify&logoColor=white)
+![Gaming](https://img.shields.io/badge/Gaming-FFD700?style=for-the-badge&logo=discord&logoColor=white)
+![Books](https://img.shields.io/badge/Books-8A2BE2?style=for-the-badge&logo=goodreads&logoColor=white)
 
 ---
 
