@@ -43,7 +43,7 @@ I enjoy working with **React**, **Next.js**, and **Node.js**, and I'm always lea
 
 ## 📫 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/daniel-zelalem-3741a7252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/Danz-ed) | [Email](mailto:youremail@example.com)
+[LinkedIn](https://www.linkedin.com/in/daniel-zelalem-3741a7252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/Danz-ed) | [Email](mailto:dzelalem86@gmail.com)
 
 ---
 
