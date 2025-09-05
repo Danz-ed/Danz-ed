@@ -2,7 +2,13 @@
 
 ---
 
-## About Me
+<div align="center">
+  <h3>Full Stack Developer | React | Next.js | Node.js</h3>
+</div>
+
+---
+
+## 🌟 About Me
 I'm a **Full Stack Developer** passionate about building **scalable web apps** and solving real-world problems.  
 I enjoy working with **React**, **Next.js**, and **Node.js**, and I'm always learning new technologies.  
 
@@ -21,7 +27,6 @@ I enjoy working with **React**, **Next.js**, and **Node.js**, and I'm always lea
 ---
 
 ## 🛠️ Tech Stack
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -57,6 +62,14 @@ A **Next.js** project demonstrating frontend-backend integration with JSON-based
 
 ---
 
+## 🏆 Achievements & Fun Facts
+- 🚀 Built **5+ real-world projects** and deployed them online  
+- 🎖 Contributed to **open-source projects** and personal learning apps  
+- 🌐 Portfolio available at [danielzelalem.vercel.app](https://danielzelalem.vercel.app/)  
+- 🎯 Passionate about **learning new tech** every day  
+
+---
+
 ## 📊 GitHub Stats
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danz-ed&show_icons=true&theme=radical&count_private=true&hide=issues)
@@ -78,7 +91,7 @@ A **Next.js** project demonstrating frontend-backend integration with JSON-based
 
 ---
 
-## 🏆 Visitor Count
+## 🏅 Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/Danz-ed/count.svg)
 
