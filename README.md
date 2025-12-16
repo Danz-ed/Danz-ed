@@ -40,23 +40,23 @@ I enjoy working with **React**, **Next.js**, and **Node.js**, and I'm always lea
 
 ## 🔭 Projects
 
-### [Daily Passivity Quotes & Suggestions](https://positivity.lovable.app/)
-![Daily Passivity](https://via.placeholder.com/400x200?text=Project+Screenshot)  
+### Daily Positivity Quotes & Suggestions
+![Daily Positivity](https://via.placeholder.com/400x200?text=Project+Screenshot)  
 A web app providing daily positivity quotes and suggestions to improve mood and mental health. Built with **React** and **Next.js**.
 
-### [Portfolio Website](https://danielzelalem.vercel.app/)
+### Portfolio Website
 ![Portfolio](https://via.placeholder.com/400x200?text=Project+Screenshot)  
 My personal portfolio website built with **Next.js** and **Tailwind CSS** to showcase my projects and resume.
 
-### [Daily Expense Tracker](https://github.com/Danz-ed/expense-tracker)
+### Daily Expense Tracker
 ![Expense Tracker](https://via.placeholder.com/400x200?text=Project+Screenshot)  
 Manage daily expenses with add, edit, delete, and categorization features using **React** and **localStorage**.
 
-### [To-Do App](https://github.com/Danz-ed/todo-app)
+### To-Do App
 ![To-Do App](https://via.placeholder.com/400x200?text=Project+Screenshot)  
 Manage tasks efficiently with a full-featured **React** app including CRUD operations.
 
-### [Vehicle Management System](https://github.com/Danz-ed/vehicle-management)
+### Vehicle Management System
 ![Vehicle Management](https://via.placeholder.com/400x200?text=Project+Screenshot)  
 A **Next.js** project demonstrating frontend-backend integration with JSON-based storage.
 
@@ -65,7 +65,7 @@ A **Next.js** project demonstrating frontend-backend integration with JSON-based
 ## 🏆 Achievements & Fun Facts
 - 🚀 Built **5+ real-world projects** and deployed them online  
 - 🎖 Contributed to **open-source projects** and personal learning apps  
-- 🌐 Portfolio available at [danielzelalem.vercel.app](https://danielzelalem.vercel.app/)  
+- 🌐 Portfolio available at **danielzelalem.vercel.app**  
 - 🎯 Passionate about **learning new tech** every day  
 
 ---
@@ -87,7 +87,7 @@ A **Next.js** project demonstrating frontend-backend integration with JSON-based
 
 ## 📫 Contact Me
 
-[Portfolio](https://danielzelalem.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/daniel-zelalem-3741a7252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/Danz-ed) | [Email](mailto:dzelalem86@gmail.com)
+[Portfolio](https://danielzelalem.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/daniel-zelalem-3741a7252) | [GitHub](https://github.com/Danz-ed) | [Email](mailto:dzelalem86@gmail.com)
 
 ---
 
