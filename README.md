@@ -41,7 +41,7 @@ I enjoy working with **React**, **Next.js**, and **Node.js**, and I'm always lea
 ## 🔭 Projects
 
 ### Daily Positivity Quotes & Suggestions
-![Daily Positivity](https://via.placeholder.com/400x200?text=Project+Screenshot)  
+![Daily Positivity]  
 A web app providing daily positivity quotes and suggestions to improve mood and mental health. Built with **React** and **Next.js**.
 
 ### Portfolio Website
