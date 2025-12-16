@@ -10,12 +10,12 @@
 
 ## 🌟 About Me
 
-I'm a **Full Stack Developer** passionate about building **scalable, user-friendly web applications** and solving real-world problems through code.  
-I enjoy turning ideas into reality using modern web technologies and clean UI design.
+I'm a **Full Stack Developer** passionate about building **scalable, user-friendly web applications** and solving real-world problems using modern technologies.  
+I enjoy crafting clean UI and writing maintainable code.
 
-- 🔭 Currently working on **personal projects** and hands-on learning  
-- 🌱 Continuously learning **TypeScript, Prisma ORM, and advanced Next.js concepts**  
-- 💬 Ask me about **JavaScript, React, Next.js, and full-stack development**  
+- 🔭 Currently working on **personal projects** and continuous learning  
+- 🌱 Learning **TypeScript, Prisma ORM, and advanced Next.js features**  
+- 💬 Ask me about **JavaScript, React, Next.js, and full-stack development**
 
 ---
 
@@ -59,7 +59,7 @@ Designed with simplicity and emotional impact in mind.
 ### 🎨 Portfolio Website
 **Personal Developer Portfolio**
 
-A modern and responsive portfolio that highlights my **projects, skills, and learning journey**.  
+A modern and responsive portfolio showcasing my **projects, skills, and learning journey**.  
 Built with a clean layout and smooth user experience.
 
 **Tech Stack:**  
@@ -81,7 +81,7 @@ Helps users understand spending habits through organized data handling.
 ### ✅ To-Do App
 **Task Management Application**
 
-A productivity-focused app that allows users to **add, update, delete, and manage tasks efficiently**.  
+A productivity-focused app allowing users to **add, update, delete, and manage tasks efficiently**.  
 Built to strengthen understanding of component-based architecture.
 
 **Tech Stack:**  
@@ -100,12 +100,12 @@ Focused on API routes and data flow concepts.
 
 ---
 
-## 🏆 Achievements & Fun Facts
+## 🏆 Achievements & Highlights
 
 - 🚀 Built **5+ real-world projects** with modern UI  
-- 🎖 Hands-on experience with **full-stack development**  
-- 🌐 Strong focus on **clean code and scalability**  
-- 🎯 Consistently learning and improving every day  
+- 🎯 Strong focus on **clean code and scalability**  
+- 🌱 Continuous learner in **full-stack development**  
+- 💡 Passionate about turning ideas into software  
 
 ---
 
@@ -115,7 +115,7 @@ Focused on API routes and data flow concepts.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danz-ed&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Danz-ed&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Danz-ed&theme=radical)
 
 ---
 
@@ -137,7 +137,7 @@ Focused on API routes and data flow concepts.
 
 ## 🏅 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/Danz-ed/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=Danz-ed&style=flat-square&color=blue)
 
 ---
 
